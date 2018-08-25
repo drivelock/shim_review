@@ -77,12 +77,8 @@ Which files in this repo are the logs for your build?   This should include logs
 https://github.com/drivelock/uefiloader/blob/master/bin/build.log
 
 -------------------------------------------------------------------------------
-Put info about what bootloader you're using, including which patches it includes to enforce Secure Boot here:
+Add any additional information you think we may need to validate this shim
 -------------------------------------------------------------------------------
 After pre-boot authentication Windows is booted (so Windows bootloader is used).
-
--------------------------------------------------------------------------------
-Put info about what kernel you're using, including which patches it includes to enforce Secure Boot here:
--------------------------------------------------------------------------------
-Windows 7, 8, 10
+We are able to boot Windows 7, 8, 10 (all versions supported by Microsoft).
 
