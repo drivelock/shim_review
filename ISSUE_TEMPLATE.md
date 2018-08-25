@@ -1,19 +1,26 @@
 Make sure you have provided the following information:
 
  - [X] link to your code branch cloned from rhboot/shim-review in the form user/repo@tag
- drivelock/shim_review@drivelock-shim-arch-20180825
+ 
+drivelock/shim_review@drivelock-shim-arch-20180825
  - [X] completed README.md file with the necessary information
- See drivelock/shim_review@drivelock-shim-arch-20180825
+ 
+See drivelock/shim_review@drivelock-shim-arch-20180825
  - [X] shim.efi to be signed
- See drivelock/shim_review@drivelock-shim-arch-20180825 (bootX64.efi)
+ 
+See drivelock/shim_review@drivelock-shim-arch-20180825 (bootX64.efi)
  - [X] public portion of your certificate embedded in shim (the file passed to VENDOR_CERT_FILE)
- See drivelock/uefiloader/blob/master/shimlib/shim_cert_DL.h
+ 
+See drivelock/uefiloader/blob/master/shimlib/shim_cert_DL.h
  - [X] any extra patches to shim via your own git tree or as files
- See drivelock/uefiloader@drivelock-shim-arch-20180825
+ 
+See drivelock/uefiloader@drivelock-shim-arch-20180825
  - [X] any extra patches to grub via your own git tree or as files
- None
+ 
+None
  - [X] build logs
- See drivelock/shim_review@drivelock-shim-arch-20180825 (build.log)
+ 
+See drivelock/shim_review@drivelock-shim-arch-20180825 (build.log)
 
 ###### What organization or people are asking to have this signed:
 DriveLock SE (https://www.drivelock.com)
